@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -52,7 +51,6 @@
     </section>
 
     <footer>
-        <p>&copy; 2024 Green Energy Initiatives</p>
     </footer>
 
     <script src="script.js"></script>
