@@ -1,1 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Green Energy Initiatives</title>
+</head>
+
+<body>
+    <header>
+        <h1>Green Energy Initiatives</h1>
+        <p>Reducing the negative effects of fossil fuels on the environment through renewable energy solutions.</p>
+    </header>
+
+    <section id="basic-info">
+        <h2>Basic Information</h2>
+        <p>Explore green and clean energy solutions for your home:</p>
+        <ul>
+            <li>Solar Panels</li>
+            <li>Wind Turbines</li>
+            <li>Energy-Efficient Appliances</li>
+        </ul>
+    </section>
+
+    <section id="cost">
+        <h2>Cost</h2>
+        <p>Understanding the costs associated with implementing green energy solutions:</p>
+        <ul>
+            <li>Initial Installation Costs</li>
+            <li>Long-Term Savings</li>
+        </ul>
+    </section>
+
+    <section id="rebates">
+        <h2>Tax Rebates</h2>
+        <p>Information on tax incentives and rebates for homeowners:</p>
+        <ul>
+            <li>Federal Tax Credits</li>
+            <li>State-level Incentives</li>
+        </ul>
+    </section>
+
+    <section id="practices">
+        <h2>Clean/Green Energy Practices</h2>
+        <p>Learn about sustainable practices for a greener and cleaner environment:</p>
+        <ul>
+            <li>Energy Conservation Tips</li>
+            <li>Waste Reduction Strategies</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Green Energy Initiatives</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
 
