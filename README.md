@@ -20,6 +20,7 @@
             <li>Solar Panels</li>
             <li>Wind Turbines</li>
             <li>Energy-Efficient Appliances</li>
+            
         </ul>
     </section>
 
@@ -29,6 +30,7 @@
         <ul>
             <li>Initial Installation Costs</li>
             <li>Long-Term Savings</li>
+           
         </ul>
     </section>
 
@@ -38,6 +40,7 @@
         <ul>
             <li>Federal Tax Credits</li>
             <li>State-level Incentives</li>
+
         </ul>
     </section>
 
@@ -47,14 +50,15 @@
         <ul>
             <li>Energy Conservation Tips</li>
             <li>Waste Reduction Strategies</li>
+        
         </ul>
     </section>
 
     <footer>
+        
     </footer>
 
     <script src="script.js"></script>
 </body>
 
 </html>
-
